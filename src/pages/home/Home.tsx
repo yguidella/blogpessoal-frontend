@@ -2,7 +2,7 @@ function Home() {
     return (
         <>
             <div className="bg-indigo-900 flex justify-center min-h-[80vh]">
-                <div className="grid grid-cols-2 text-white w-full max-w-[1280px]">
+                <div className="grid grid-cols-2 text-white w-full max-w-7xl">
                     <div className="flex flex-col gap-4 items-center justify-center py-4">
                         <h2 className="text-5xl font-bold text-center">
                             Sejam bem vindos e bem vindas!
