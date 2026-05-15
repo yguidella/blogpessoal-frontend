@@ -66,7 +66,7 @@ function Cadastro() {
     return (
         <>
             <div className="grid grid-cols-1 lg:grid-cols-2 h-screen 
-                            place-items-center font-bold">
+                            place-items-center font-bold bg-orange-200">
                 <div 
                     className="bg-[url('https://ik.imagekit.io/yytwlza66/img_caderno_caqui.png')] lg:block hidden bg-no-repeat 
                                w-full min-h-screen bg-cover bg-center"
